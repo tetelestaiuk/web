@@ -1,17 +1,17 @@
 # SITE CONFIGURATION
-baseurl: "/"
-url: "https://www.tetelestai.co.uk"
+baseurl: ""
+url: "https://tetelestaiuk.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Tetelestai                                    # site's title
-description: "Delivering change"      # used by search engines
+description: Delivering change in the best possible way      # used by search engines
 avatar: assets/img/avatar.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
-footer_text: ""
+header_text: " "  # Change Blog header text
+header_feature_image: assets/img/avatar.png
+footer_text: Copyright 2020
 
 # Blog
 excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
