@@ -8,5 +8,4 @@ tags: [About]
 
 Content coming soon
 
-# Markdown way (bigger)
 ![Coming soon]({{ "/assets/img/avatar.png" | relative_url}})
