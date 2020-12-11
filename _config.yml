@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/web"
-url: "https://tetelestai.co.uk"
+baseurl: "/"
+url: "https://www.tetelestai.co.uk"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Tetelestai                                    # site's title
