@@ -10,7 +10,7 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 
 # Header and footer text
 header_text: " "  # Change Blog header text
-header_feature_image: assets/img/avatar.png
+header_feature_image: #assets/img/avatar.png
 footer_text: Copyright 2020
 
 # Blog
