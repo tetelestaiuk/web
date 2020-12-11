@@ -14,7 +14,7 @@ header_feature_image: assets/img/avatar.png
 footer_text: Copyright 2020
 
 # Blog
-excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
